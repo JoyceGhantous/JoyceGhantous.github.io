@@ -1,0 +1,66 @@
+<!DOCTYPE html> 
+<html>
+
+<body style="background-color:#FFE4E1;">
+
+
+<header id="banner"></header>
+
+
+<head>
+	<link href="style.css" rel="stylesheet" type="text/css"/> 
+</head>
+
+
+<body>
+	<div id="logo">
+		<h1>Joyce Ghantous</h1>
+<!--		<h2>Doctorant en mathématiques appliquées (2<sup>e</sup> année) </h2> 
+		<h3>LMAP (<a href="https://lma-umr5142.univ-pau.fr/fr/index.html" target="_blank"><i>Laboratoire de Math&eacute;matiques et de leurs Applications de Pau</i></a>) </h3> 
+		<h3>UPPA (<a href="https://www.univ-pau.fr/fr/index.html" target="_blank"><i>Universit&eacute; de Pau et des Pays de l'Adour</i></a>)</h3> 
+--> 
+		<table width="100%" cellspacing="0" border="0">
+			<td width="75%" align="left" align="char" char="."> 
+		<nav> <ul>
+			<li><a href="index.html">Accueil</a></li> <!-- <a href="indexl.html"> --> 
+			<li><a href="publications.html">Publications</a></li>
+			<li><a href="#" id="active">Communications orales</a></li> 
+			<li><a href="enseignements.html">Enseignements</a></li>
+		</ul> </nav>
+	    	</td>
+			<td width="19%" align="left" align="char" char="."> 
+	    	</td>
+	    </table>
+
+	</div>
+	 	
+
+	<div id="contenu">
+	
+	<h2>Enseignements.</h2> 
+
+	<h4>Année 2022-2023.</h4> 
+		
+	<ul>
+	<li>Travaux dirigés pour les étudiants de Licence 2 mathématiques; Analyse 4a compacité et calcul differentiel au second ordre - Collège Sciences et Technologies pour l'Energie et l'Environnement -{Université de Pau et de Pays de l'Adour (19h30)
+	</ul>
+	
+	<ul>
+	<li>Travaux dirigés pour les étudiants de Licence 1 mathématiques; Outils de mathématiques - Collège Sciences et Technologies pour l'Energie et l'Environnement - Université de Pau et de Pays de l'Adour (18h)
+	</ul>
+		
+	<h4>Sujet : Finite element analysis for the Ventcel boundary problem.</h4> 
+		
+	<ul>
+	<li> 15 mars 2022, Journée d'équipe du LMAP, Université de Pau et des Pays de l'Adour (France). 
+	</ul>
+
+	<br>
+
+
+	</div>
+
+
+</body> 
+
+</html>
